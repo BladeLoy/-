@@ -3,7 +3,7 @@ from tkinter import *
 import os
 
 root = Tk()
-root.iconbitmap(r"\\Ctc-app01\Test_Center\Component\2_Lab Report\2_5_待写报告\CTCF0950 马乐义\签名" + "\\" + "Control_Panel.ico")
+root.iconbitmap(r"\\"Control_Panel.ico")
 root.title("文件生成器")
 root.geometry("500x100+30+20")
 root.resizable(width=True, height=True)
